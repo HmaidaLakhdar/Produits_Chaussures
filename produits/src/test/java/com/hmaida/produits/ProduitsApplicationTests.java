@@ -11,7 +11,7 @@ import org.springframework.data.domain.Page;
 import com.hmaida.produits.entities.Chaussures_H;
 import com.hmaida.produits.repos.Chaussures_HRepository;
 import com.hmaida.produits.service.ChaussuresService;
-
+//hghjv
 @SpringBootTest
 class ProduitsApplicationTests {
 	@Autowired
